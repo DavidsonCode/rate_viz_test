@@ -1,0 +1,65 @@
+date,rate,Type,Lender,LTV
+06/15/2019,3,Fixed,Desjardins,1
+06/16/2019,2,Fixed,Desjardins,1
+06/17/2019,3,Fixed,Desjardins,1
+06/18/2019,4,Fixed,Desjardins,1
+06/19/2019,5,Fixed,Desjardins,1
+06/20/2019,6,Fixed,Desjardins,1
+06/21/2019,7,Fixed,Desjardins,1
+06/22/2019,8,Fixed,Desjardins,1
+06/15/2019,8,Variable,Desjardins,1
+06/16/2019,9,Variable,Desjardins,1
+06/17/2019,5,Variable,Desjardins,1
+06/18/2019,1,Variable,Desjardins,1
+06/19/2019,2,Variable,Desjardins,1
+06/20/2019,3,Variable,Desjardins,1
+06/21/2019,6,Variable,Desjardins,1
+06/22/2019,7,Variable,Desjardins,1
+06/15/2019,3,Fixed,Home Trust,1
+06/16/2019,2,Fixed,Home Trust,1
+06/17/2019,1,Fixed,Home Trust,1
+06/18/2019,3,Fixed,Home Trust,1
+06/19/2019,8,Fixed,Home Trust,1
+06/20/2019,8,Fixed,Home Trust,1
+06/21/2019,7,Fixed,Home Trust,1
+06/22/2019,6,Fixed,Home Trust,1
+06/15/2019,6,Variable,Home Trust,1
+06/16/2019,5,Variable,Home Trust,1
+06/17/2019,4,Variable,Home Trust,1
+06/18/2019,3,Variable,Home Trust,1
+06/19/2019,7,Variable,Home Trust,1
+06/20/2019,8,Variable,Home Trust,1
+06/21/2019,0,Variable,Home Trust,1
+06/22/2019,0,Variable,Home Trust,1
+06/15/2019,1,Fixed,Desjardins,2
+06/16/2019,1,Fixed,Desjardins,2
+06/17/2019,1,Fixed,Desjardins,2
+06/18/2019,1,Fixed,Desjardins,2
+06/19/2019,1,Fixed,Desjardins,2
+06/20/2019,1,Fixed,Desjardins,2
+06/21/2019,1,Fixed,Desjardins,2
+06/22/2019,1,Fixed,Desjardins,2
+06/15/2019,1,Variable,Desjardins,2
+06/16/2019,1,Variable,Desjardins,2
+06/17/2019,1,Variable,Desjardins,2
+06/18/2019,1,Variable,Desjardins,2
+06/19/2019,1,Variable,Desjardins,2
+06/20/2019,1,Variable,Desjardins,2
+06/21/2019,1,Variable,Desjardins,2
+06/22/2019,1,Variable,Desjardins,2
+06/15/2019,1,Fixed,Home Trust,2
+06/16/2019,1,Fixed,Home Trust,2
+06/17/2019,1,Fixed,Home Trust,2
+06/18/2019,1,Fixed,Home Trust,2
+06/19/2019,1,Fixed,Home Trust,2
+06/20/2019,1,Fixed,Home Trust,2
+06/21/2019,1,Fixed,Home Trust,2
+06/22/2019,1,Fixed,Home Trust,2
+06/15/2019,1,Variable,Home Trust,2
+06/16/2019,1,Variable,Home Trust,2
+06/17/2019,1,Variable,Home Trust,2
+06/18/2019,1,Variable,Home Trust,2
+06/19/2019,1,Variable,Home Trust,2
+06/20/2019,1,Variable,Home Trust,2
+06/21/2019,1,Variable,Home Trust,2
+06/22/2019,1,Variable,Home Trust,2

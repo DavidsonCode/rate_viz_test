@@ -6,12 +6,7 @@
 library(shiny)
 library(plotly)
 
-#now it can aggregate, but would like to get it so if I select eg two lenders it will aggregate those
-#need to study the code in the other file, see how I can apply that here - maybe I can use 
-#add trace in a loop here?
-
-
-snbml <- read.csv("C:\\Users\\david\\Desktop\\scraped_rates_test_3.csv")
+snbml <- read.csv("scraped_rates_test_3.csv")
 snbml$dater <- as.Date(snbml$date, format="%m/%d/%Y")
 
 ui <- fluidPage(
@@ -51,7 +46,7 @@ server <- function(input, output, ...) {
           type = 'filter',
           target = snbml$Lender,
           operation = '=',
-          value = input$lenders[2]
+          value = input$lenders
         ),
         list(
           type = 'aggregate',
